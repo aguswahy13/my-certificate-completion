@@ -13,12 +13,11 @@ Hi, here the achievement in the form of a certificate Agus has in the field of t
 
 ### A. DATA
 #### Machine Learning
-1. [IBM Machine Learning Path](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/IBM%20Machine%20Learning%20Path%2C%20FGA%20DTS.pdf) (FGA DTS Kominfo)
-2. [Mathematics for Machine Learning Specialization](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Mathematics%20for%20Machine%20Learning%20Specialization.pdf) (Coursera)
-3. [Structuring Machine Learning Projects](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Structuring%20Machine%20Learning%20Projects.pdf) (Coursera)
-4. [Guided Tour of Machine Learning in Finance](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Guided%20Tour%20of%20Machine%20Learning%20in%20Finance.pdf) (Coursera)
-5. [Belajar Machine Learning untuk Pemula](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Belajar%20Machine%20Learning%20untuk%20Pemula.pdf) (Dicoding)
-6. [Belajar Pengembangan Machine Learning](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Belajar%20Pengembangan%20Machine%20Learning.pdf) (Dicoding)
+1. [Mathematics for Machine Learning Specialization](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Mathematics%20for%20Machine%20Learning%20Specialization.pdf) (Coursera)
+2. [Structuring Machine Learning Projects](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Structuring%20Machine%20Learning%20Projects.pdf) (Coursera)
+3. [Guided Tour of Machine Learning in Finance](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Guided%20Tour%20of%20Machine%20Learning%20in%20Finance.pdf) (Coursera)
+4. [Belajar Machine Learning untuk Pemula](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Belajar%20Machine%20Learning%20untuk%20Pemula.pdf) (Dicoding)
+5. [Belajar Pengembangan Machine Learning](https://github.com/aguswahy13/my-certification/blob/main/machine-learning/Belajar%20Pengembangan%20Machine%20Learning.pdf) (Dicoding)
 
 #### Python
 1. [Google IT Automation with Python Specialization](https://github.com/aguswahy13/my-certification/blob/main/python/Google%20IT%20Automation%20with%20Python%20Specialization.pdf) (Coursera)
