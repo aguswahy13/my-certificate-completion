@@ -5,7 +5,7 @@ Hi, here the achievement in the form of a certificate Agus has in the field of t
 1. [Certified Blockchain Professional - Business Leads](https://github.com/aguswahy13/my-certification/blob/main/certification/Certified%20Blockchain%20Professional%20-%20Business%20Leads.pdf) (EC Council)
 
 ## Programs
-1. Machine Learning Path (Bangkit Academy)
+1. Machine Learning Path (Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka)
 2. [Data Science for Social Good with AINO Indonesia](https://github.com/aguswahy13/my-certification/blob/main/programs/center-for-digital-society-universitas-gadjah-mada/Data%20Science%20for%20Social%20Good%20with%20AINO%20Indonesia.pdf) (Center for Digital Society Universitas Gadjah Mada)
 3. [IBM Machine Learning Path](https://github.com/aguswahy13/my-certification/blob/main/programs/digital-talent-scholarship/IBM%20Machine%20Learning%20Path%2C%20FGA%20DTS.pdf) (Digital Talent Scholarship)
 
