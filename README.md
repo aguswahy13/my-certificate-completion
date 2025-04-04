@@ -3,6 +3,7 @@ Hi, here the achievement in the form of a certificate Agus has in the field of t
 
 ## Certification
 1. [Certified Blockchain Professional - Business Leads](https://github.com/aguswahy13/my-certification/blob/main/certification/Certified%20Blockchain%20Professional%20-%20Business%20Leads.pdf) (EC Council)
+2. [Microsoft Azure Data Fundamentals](https://github.com/aguswahy13/my-certificate-completion/blob/main/certification/Microsoft%20Azure%20Data%20Fundamentals.pdf) (Talenta AI Indonesia - Microsoft)
 
 ## Programs
 1. [Machine Learning Path](https://github.com/aguswahy13/my-certification/blob/main/programs/bangkit-academy/Bangkit%20Graduate%20and%20Company%20Capstone.pdf) (Bangkit Academy led by Google, Tokopedia, Gojek, & Traveloka)
